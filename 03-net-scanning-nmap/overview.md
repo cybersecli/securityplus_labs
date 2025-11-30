@@ -14,11 +14,17 @@ The objective of this lab is to perform a basic network scan using NMAP to ident
 
 ## 🛠️ Steps Taken
 
-Step 1. Identified local host information
-  1a. Used ipconfig to fetermine the machines IPv4 address (192.168.1.82) to use as the scan target
+Step 1.Identified local host information
   
-Step 2.  
-3. [Step 3: What data you analyzed or actions you observed]
+Step 2. Performed an NMAP Service and Version Scan 
+
+Step 3. Analyzed Scan Results
+
+Step 4. Saved Scan Output for Documentation
+
+Step 5. Captured Evidence
+
+Step 6. Organized Lab Arti
 
 ---
 

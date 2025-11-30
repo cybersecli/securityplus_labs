@@ -1,24 +1,22 @@
 # Identity & Authentication
 
 🧪 **Security+ Domain:** Architecture & Design  
-📅 **Date Completed:** [MM/DD/YYYY]  
-🛠️ **Tools Used:** [e.g., Wireshark, tcpdump, Kali Linux, Windows Event Viewer, etc.]
+📅 **Date Completed:** 07/30/2025  
+🛠️ **Tools Used:** Nmap
 
 ---
 
 ## 🔍 Objective
 
-Briefly explain what this lab was designed to demonstrate or test.
+The objective of this lab is to perform a basic network scan using NMAP to identify active hosts, detect open ports, and determine running services on a target sytem within a local network. This lab demonstrates foundational skills in reconnaissance, service enumeration, and understanding how attackers amd defenders use network scanning to assess system exposure.
 
-_Example:_  
-This lab explores the topic of Identity & Authentication within the Architecture & Design domain, using practical tools and scenarios.
 
----
 
 ## 🛠️ Steps Taken
 
-1. [Step 1: Describe what you set up or did]  
-2. [Step 2: What tests or tools you used]  
+Step 1. Identified local host information
+  1a. Used ipconfig to fetermine the machines IPv4 address (192.168.1.82) to use as the scan target
+Step 2.  
 3. [Step 3: What data you analyzed or actions you observed]
 
 ---

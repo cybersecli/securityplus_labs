@@ -1,7 +1,7 @@
 # Access Control
 
 🧪 **Security+ Domain:** Architecture & Design  
-📅 **Date Completed:** [MM/DD/YYYY]  
+📅 **Date Completed:** [11/30/2025]  
 🛠️ **Tools Used:** [e.g., Wireshark, tcpdump, Kali Linux, Windows Event Viewer, etc.]
 
 ---

@@ -2,23 +2,21 @@
 
 🧪 **Security+ Domain:** Architecture & Design  
 📅 **Date Completed:** [11/30/2025]  
-🛠️ **Tools Used:** [e.g., Wireshark, tcpdump, Kali Linux, Windows Event Viewer, etc.]
-
+🛠️ **Tools Used:** Windows control panel
 ---
 
 ## 🔍 Objective
 
-Briefly explain what this lab was designed to demonstrate or test.
+Practice applying RBAC and least privilege
 
-_Example:_  
-This lab explores the topic of Access Control within the Architecture & Design domain, using practical tools and scenarios.
+The objective of this lab is to demostrate the principle of least privilege by creating and managing user accounts with restricted permissions, verifying that users can only perform actions with their assigned roles. This lab reinforces secure access control practices by limiting unnecessary privliges, reducing attack surface, and ensuring that system resources are accessed only by authorized users.
 
 ---
 
 ## 🛠️ Steps Taken
 
-1. [Step 1: Describe what you set up or did]  
-2. [Step 2: What tests or tools you used]  
+Step 1. Use control panel to access User Accounts  
+Step 2. Create 2 accounts   
 3. [Step 3: What data you analyzed or actions you observed]
 
 ---

@@ -16,8 +16,9 @@ The objective of this lab is to demostrate the principle of least privilege by c
 ## 🛠️ Steps Taken
 
 Step 1. Use control panel to access User Accounts  
-Step 2. Create 2 accounts   
-3. [Step 3: What data you analyzed or actions you observed]
+Step 2. Create 2 accounts: 1 Admin, and 1 Standard user   
+Step 3. Log into each and attempt to install software or change time settings.
+Use gpedit.msc or secpol.msc to enforce restrictions
 
 ---
 
